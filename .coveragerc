@@ -1,0 +1,19 @@
+[run]
+omit =
+  # Additional files
+  images/*
+  resources/*
+
+  # Tests and test files
+  tests/*
+  pytest.ini
+
+  # Coverage and other reports
+  README
+  LICENSE
+  requirements.txt
+  htmlcov/*
+
+[html]
+directory = htmlcov
+title = "Storyblocks Text Search"
