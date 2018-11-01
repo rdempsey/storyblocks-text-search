@@ -1,2 +1,2 @@
-# storyblocks-text-search
-Text search application for Storyblocks
+# Storyblocks TextSearch
+Text search application for Storyblocks.
